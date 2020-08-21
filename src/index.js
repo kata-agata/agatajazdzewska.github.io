@@ -21,7 +21,7 @@ function component() {
   element.innerHTML = _.join(['Hello 1', 'webpack'], ' ');
   element.classList.add('hello');
 
-  btn.innerHTML = 'Click me!';
+  btn.innerHTML = 'Click me ooooo!';
   btn.onclick = printMe;
 
   element.appendChild(btn);
