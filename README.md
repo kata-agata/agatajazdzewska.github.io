@@ -1,2 +1,3 @@
 # agatajazdzewska.github.io
-portfolio website
+portfolio website in progress
+npm, webpack, javascript, html, sass, bootsrap
